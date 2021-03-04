@@ -148,7 +148,8 @@ body {
 }
 
 #about p {
-    font-size: 18px;
+    font-size: 16px;
+    text-align: justify;
     margin-top: -15px;
     margin-bottom: 100px;
 }
@@ -221,6 +222,7 @@ body {
     #main-content {
         width: 100%;
         float: none;
+        padding: 0;
     }
 
     #main-content h1 {
