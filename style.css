@@ -26,6 +26,19 @@ body {
     font-size: 50px;
 }
 
+#main-header #pic-button {
+    font-size: 30px;
+    text-decoration: none;
+    background-color: white;
+    color:coral;
+    padding: 2px 8px;
+    border-radius: 20px;
+}
+
+#main-header #pic-button:hover{
+    color: #333;
+}
+
 #navbar {
     background-color: #333;
     color: white;
@@ -198,7 +211,11 @@ body {
 
 @media(max-width: 700px){
     #main-header h1 {
-        font-size: 40px;
+        font-size: 38px;
+    }
+
+    #main-header #pic-button {
+        font-size: 18px;
     }
 
     
