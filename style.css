@@ -93,7 +93,6 @@ body {
     color: #333;
 }
 
-
 #showcase {
     background-image: url("images/showcase-bg.png");
     text-align: center;
@@ -218,11 +217,9 @@ body {
         font-size: 18px;
     }
 
-    
     #navbar a {
         padding: 0 8px;
     }
-
 
     #showcase h2{
         font-size: 30px;
